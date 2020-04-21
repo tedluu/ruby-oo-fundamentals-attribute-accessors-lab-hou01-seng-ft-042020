@@ -1,3 +1,3 @@
 ## code your solution here. 
 class Cat 
-  att
+  attr_accessor
